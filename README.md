@@ -39,4 +39,21 @@ I'm learning Python and GitHub to build my programming skills.
 - File Handling
 To become a job-ready IT professional.
 
-Thanks for visiting my GitHub profile! 
+Thanks for visiting my GitHub profile!
+
+## Featured Project
+
+### Calculator Project
+
+A simple Python calculator that performs:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Zero-division handling
+
+### Technologies Used
+
+- Python
+- GitHub 
